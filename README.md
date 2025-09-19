@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **noebachofner@lxrin.ch**
 
-- ⚡ Fun fact **I love to Vibe Code**
+- ⚡ Fun fact **I love to Vibe Code small Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
