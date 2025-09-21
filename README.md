@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Rust, HTML, CSS, JavaScript, Docker, PostgreSQL, AWS**
 
-- 👨‍💻 All of my projects are available at [lxrin.ch](lxrin.ch)
+- 👨‍💻 All of my projects are available at [lxrin.ch](portfolio.lxrin.ch/pages/projects)
 
 - 📫 How to reach me **noebachofner@lxrin.ch**
 
