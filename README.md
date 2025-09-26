@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noebachofner&label=Profile%20views&color=0e75b6&style=flat" alt="noebachofner" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/noebachofner/game-control)
+- 🔭 I’m currently working on [Own Game Table Site](https://github.com/noebachofner/game-control)
 
 - 🌱 I’m currently learning **Java, Rust, HTML, CSS, JavaScript, Docker, PostgreSQL, AWS**
 
