@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noebachofner&label=Profile%20views&color=0e75b6&style=flat" alt="noebachofner" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Noé Bachofner]([https://github.com/noebachofner/Portfolio](https://github.com/noebachofner/PortfolioNoeBachofner])
+- 🔭 I’m currently working on [Portfolio Noé Bachofner](https://github.com/noebachofner/PortfolioNoeBachofner)
 
 - 🌱 I’m currently learning **Java, Rust, HTML, CSS, JavaScript, Docker, PostgreSQL, AWS**
 
