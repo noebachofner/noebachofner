@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [lxrin.ch](https://lxrin.ch)
 
-- 📫 How to reach me **noebachofner@lxrin.ch**
+- 📫 How to reach me **contact@lxrin.ch**
 
 - ⚡ Fun fact **I love to Vibe Code small Projects**
 
