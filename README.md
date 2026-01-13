@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noé Bachofner</h1>
 <h3 align="center">I'm a Java Developer from Switzerland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noebachofner&label=Profile%20views&color=grey&style=flat" alt="noebachofner" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noebachofner&label=Profile%20views&color=grey&style=for-the-badge" alt="noebachofner" /> </p>
 
 - 🔭 I’m currently working on [Portfolio Noé Bachofner](https://github.com/noebachofner/PortfolioNoeBachofner)
 
