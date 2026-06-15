@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noebachofner&label=Profile%20views&color=grey&style=for-the-badge" alt="noebachofner" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Noé Bachofner](https://github.com/noebachofner/PortfolioNoeBachofner)
+- 🔭 I’m currently working on [Portfolio Noé Bachofner](https://lxrin.tech)
 
 - 🌱 I’m currently learning **Java, Rust, HTML, CSS, JavaScript, Docker, PostgreSQL, AWS**
 
-- 👨‍💻 All of my projects are available at [lxrin.ch](https://lxrin.ch)
+- 👨‍💻 All of my projects are available at [lxrin.tech](https://lxrin.tech)
 
 - 📫 How to reach me **contact@lxrin.ch**
 
